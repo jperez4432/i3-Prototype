@@ -1,0 +1,26 @@
+[17-Sep-2021 06:39:50 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'exampleMenu' not found or invalid function name in /Users/juanperez/Local Sites/i3prototype/app/public/wp-includes/class-wp-hook.php on line 303
+[17-Sep-2021 06:39:50 UTC] PHP Stack trace:
+[17-Sep-2021 06:39:50 UTC] PHP   1. {main}() /Users/juanperez/Local Sites/i3prototype/app/public/wp-admin/admin.php:0
+[17-Sep-2021 06:39:50 UTC] PHP   2. do_action() /Users/juanperez/Local Sites/i3prototype/app/public/wp-admin/admin.php:259
+[17-Sep-2021 06:39:50 UTC] PHP   3. WP_Hook->do_action() /Users/juanperez/Local Sites/i3prototype/app/public/wp-includes/plugin.php:470
+[17-Sep-2021 06:39:50 UTC] PHP   4. WP_Hook->apply_filters() /Users/juanperez/Local Sites/i3prototype/app/public/wp-includes/class-wp-hook.php:327
+[17-Sep-2021 06:39:57 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'exampleMenu' not found or invalid function name in /Users/juanperez/Local Sites/i3prototype/app/public/wp-includes/class-wp-hook.php on line 303
+[17-Sep-2021 06:39:57 UTC] PHP Stack trace:
+[17-Sep-2021 06:39:57 UTC] PHP   1. {main}() /Users/juanperez/Local Sites/i3prototype/app/public/wp-admin/admin.php:0
+[17-Sep-2021 06:39:57 UTC] PHP   2. do_action() /Users/juanperez/Local Sites/i3prototype/app/public/wp-admin/admin.php:259
+[17-Sep-2021 06:39:57 UTC] PHP   3. WP_Hook->do_action() /Users/juanperez/Local Sites/i3prototype/app/public/wp-includes/plugin.php:470
+[17-Sep-2021 06:39:57 UTC] PHP   4. WP_Hook->apply_filters() /Users/juanperez/Local Sites/i3prototype/app/public/wp-includes/class-wp-hook.php:327
+[17-Sep-2021 06:41:51 UTC] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /Users/juanperez/Local Sites/i3prototype/app/public/wp-content/plugins/index.php on line 16
+[17-Sep-2021 06:42:38 UTC] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /Users/juanperez/Local Sites/i3prototype/app/public/wp-content/plugins/index.php on line 16
+[17-Sep-2021 06:42:39 UTC] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /Users/juanperez/Local Sites/i3prototype/app/public/wp-content/plugins/index.php on line 16
+[17-Sep-2021 06:42:42 UTC] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /Users/juanperez/Local Sites/i3prototype/app/public/wp-content/plugins/index.php on line 16
+[17-Sep-2021 06:43:01 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'pluginHistory' not found or invalid function name in /Users/juanperez/Local Sites/i3prototype/app/public/wp-includes/class-wp-hook.php on line 303
+[17-Sep-2021 06:43:01 UTC] PHP Stack trace:
+[17-Sep-2021 06:43:01 UTC] PHP   1. {main}() /Users/juanperez/Local Sites/i3prototype/app/public/wp-admin/admin.php:0
+[17-Sep-2021 06:43:01 UTC] PHP   2. do_action() /Users/juanperez/Local Sites/i3prototype/app/public/wp-admin/admin.php:259
+[17-Sep-2021 06:43:01 UTC] PHP   3. WP_Hook->do_action() /Users/juanperez/Local Sites/i3prototype/app/public/wp-includes/plugin.php:470
+[17-Sep-2021 06:43:01 UTC] PHP   4. WP_Hook->apply_filters() /Users/juanperez/Local Sites/i3prototype/app/public/wp-includes/class-wp-hook.php:327
+[17-Sep-2021 06:44:02 UTC] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /Users/juanperez/Local Sites/i3prototype/app/public/wp-content/plugins/index.php on line 17
+[17-Sep-2021 06:45:28 UTC] PHP Parse error:  syntax error, unexpected '}' in /Users/juanperez/Local Sites/i3prototype/app/public/wp-content/plugins/index.php on line 20
+[17-Sep-2021 06:45:44 UTC] PHP Parse error:  syntax error, unexpected '}' in /Users/juanperez/Local Sites/i3prototype/app/public/wp-content/plugins/index.php on line 20
+[17-Sep-2021 06:45:44 UTC] PHP Parse error:  syntax error, unexpected '}' in /Users/juanperez/Local Sites/i3prototype/app/public/wp-content/plugins/index.php on line 20
